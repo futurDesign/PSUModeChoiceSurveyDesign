@@ -1,0 +1,100 @@
+<style type="text/css">.tg  {border-collapse:collapse;border-spacing:0;width:auto;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 20px;border-style:solid;border-width:1px;word-break:normal;border-color:black;display: table-cell !important;vertical-align: inherit !important;}
+      .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 20px;border-style:solid;border-width:1px;word-break:normal;border-color:black;}
+      .tg .tg-v0hj{font-weight:bold;background-color:#efefef;border-color:inherit;text-align:center;vertical-align:top}
+      .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+      </style>
+      <div style="display: block; width: 100%; overflow-x: auto;">
+      <table border="3" class="tg" summary="I choose personal car.">
+      <tbody>
+      <tr>
+      <th class="tg-v0hj" colspan="2">Personal Car</th>
+      <th class="tg-v0hj">Totals:</th>
+      </tr>
+      <tr>
+      <td class="tg-0pky" colspan="1">Drive time:</td>
+      <td class="tg-0pky" colspan="1">25 min</td>
+      <td class="tg-0pky" colspan="1" rowspan="2"><strong>25 min</strong></td>
+      </tr>
+      <tr>
+      <td class="tg-0pky" colspan="1">Walking time:</td>
+      <td class="tg-0pky" colspan="1"> 0 min</td>
+      </tr>
+      <tr>
+      <td class="tg-0pky">Parking Cost:</td>
+      <td class="tg-0pky">$7.00</td>
+      <td class="tg-0pky"><strong>$7.00</strong></td>
+      </tr>
+      </tbody>
+      </table>
+      </div>
+      =================
+      <style type="text/css">.tg  {border-collapse:collapse;border-spacing:0;width:auto;}
+      .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 20px;border-style:solid;border-width:1px;word-break:normal;border-color:black;display: table-cell !important;vertical-align: inherit !important;}
+      .tg th{font-family:Arialv, sans-serif;font-size:14px;font-weight:normal;padding:10px 20px;border-style:solid;border-width:1px;word-break:normal;border-color:black;}
+      .tg .tg-v0hj{font-weight:bold;background-color:#efefef;border-color:inherit;text-align:center;vertical-align:top}
+      .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+      </style>
+      <div style="display: block; width: 100%; overflow-x: auto;">
+      <table border="3" class="tg">
+      	<tbody>
+      		<tr>
+      			<th class="tg-v0hj" colspan="2">Bike</th>
+      			<th class="tg-v0hj">Totals:</th>
+      		</tr>
+      		<tr>
+      			<td class="tg-0pky">Walking time:</td>
+      			<td class="tg-0pky">0 min</td>
+      			<td class="tg-0pky" colspan="1" rowspan="2"><strong>35 mins</strong></td>
+      		</tr>
+      		<tr>
+      			<td class="tg-0pky">Bike time:</td>
+      			<td class="tg-0pky">35 min</td>
+      		</tr>
+      		<tr>
+      			<td class="tg-0pky">Cost:</td>
+      			<td class="tg-0pky">Free</td>
+      			<td class="tg-0pky"><strong>Free</strong></td>
+      		</tr>
+      	</tbody>
+      </table>
+      </div>
+      =================
+      <style type="text/css">.tg  {border-collapse:collapse;border-spacing:0;width:auto;}
+      .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 20px;border-style:solid;border-width:1px;word-break:normal;border-color:black;display: table-cell !important;vertical-align: inherit !important;}
+                    .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 20px;border-style:solid;border-width:1px;word-break:normal;border-color:black;}
+                    .tg .tg-v0hj{font-weight:bold;background-color:#efefef;border-color:inherit;text-align:center;vertical-align:top}
+                    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+                    </style>
+                    <div style="display: block; width: 100%; overflow-x: auto;">
+                    <table border="3" class="tg">
+                    <tbody>
+                    <tr>
+                    <th class="tg-v0hj" colspan="2">E-Scooter + MAX</th>
+                    <th class="tg-v0hj" colspan="">Totals:</th>
+                    </tr>
+                    <tr>
+                    <td class="tg-0pky">Walking time:</td>
+                    <td class="tg-0pky"> 2 min</td>
+                    <td class="tg-0pky" colspan="1" rowspan="3"><strong>47 min</strong></td>
+                    </tr>
+                    <tr>
+                    <td class="tg-0pky">E-Scooter time:</td>
+                    <td class="tg-0pky">10 min</td>
+                    </tr>
+                    <tr>
+                    <td class="tg-0pky">MAX time:</td>
+                    <td class="tg-0pky">35 min</td>
+                    </tr>
+                    <tr>
+                    <td class="tg-0pky">E-scooter cost:</td>
+                    <td class="tg-0pky">$1.75</td>
+                    <td class="tg-0pky" colspan="1" rowspan="2"><strong>$4.25</strong></td>
+                    </tr>
+                    <tr>
+                    <td class="tg-0pky">MAX cost:</td>
+                    <td class="tg-0pky">$2.50</td>
+                    </tr>
+                    </tbody>
+                    </table>
+                    </div>
